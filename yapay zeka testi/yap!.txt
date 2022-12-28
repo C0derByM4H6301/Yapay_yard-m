@@ -1,0 +1,7 @@
+Merhaba! Benim anladýðýma göre, Counter-Strike adlý bir oyunun bilgisayara kurulu olduðunu tespit eden ve bu oyunun çalýþmasýný engelleyen bir kod istiyorsunuz. Bu kodu yazmak için birkaç farklý yöntem olabilir, ancak her yöntem için farklý bilgi ve becerilere ihtiyacýnýz olacak. Aþaðýda size bu konuda yardýmcý olacak birkaç öneri vermeye çalýþacaðým:
+
+Windows iþletim sisteminde, bilgisayarýnýzda bir programýn çalýþýp çalýþmadýðýný tespit etmek için "Task Manager" (Görev Yöneticisi) adlý bir araç kullanabilirsiniz. Bu araç sayesinde, bilgisayarýnýzda çalýþan tüm programlarý ve iþlemleri görebilir, ayrýca çalýþan bir programý durdurabilirsiniz. Bu yöntemi kullanarak, Counter-Strike oyununun çalýþýp çalýþmadýðýný tespit edebilir ve oyunu durdurarak çalýþmasýný engelleyebilirsiniz.
+
+Bir programýn çalýþýp çalýþmadýðýný tespit etmek için, programýn yüklü olduðu dizinin varlýðýný kontrol edebilirsiniz. Örneðin, Counter-Strike oyunu genellikle "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive" dizininde yüklü olur. Bu dizinin varlýðýný kontrol eden bir kod yazabilir ve eðer bu dizin mevcutsa, Counter-Strike oyununun yüklü olduðunu tespit edebilirsiniz.
+
+Bir programýn çalýþýp çalýþmadýðýný tespit etmek için, programýn çalýþtýrýlýp çalýþtýrýlmadýðýný kontrol edebilirsiniz. Örneðin, Counter-Strike oyununun çalýþtýrýlýp çalýþtýrýlmadýðýný tespit etmek için aþaðýdaki kodu kullanabilirsiniz:
